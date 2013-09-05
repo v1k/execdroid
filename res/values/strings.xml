@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Execdroid</string>
+    <string name="menu_settings">Settings</string>
+    <string name="main_service_started">Execdroid started in foreground</string>
+    <string name="notify_subj">Execute instructions</string>
+    <string name="main_service_stopped">Execdroid stopped</string>
+    <string name="service_name">Execdroid Service</string>
+
+</resources>
